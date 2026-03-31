@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'DELUSION',
-  description: 'Every 100x starts with a belief nobody else has yet. That's not a flaw. That's the entry.',
+  description: "Every 100x starts with a belief nobody else has yet. That's not a flaw. That's the entry.",
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
